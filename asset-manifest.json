@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Go-Drive.com/static/css/main.07c9661c.css",
+    "main.js": "/Go-Drive.com/static/js/main.d5aeb78e.js",
+    "static/js/787.0cac1765.chunk.js": "/Go-Drive.com/static/js/787.0cac1765.chunk.js",
+    "static/media/man.png": "/Go-Drive.com/static/media/man.adb51b7545769e0ba82b.png",
+    "static/media/security.png": "/Go-Drive.com/static/media/security.d8bd479463ff1560003d.png",
+    "static/media/booking.png": "/Go-Drive.com/static/media/booking.236297ab066d27b6b8ca.png",
+    "static/media/girl.png": "/Go-Drive.com/static/media/girl.1732bfd256b2621b56b3.png",
+    "static/media/cashback.png": "/Go-Drive.com/static/media/cashback.9a251d10347bdce6e0e1.png",
+    "static/media/motorcycle.png": "/Go-Drive.com/static/media/motorcycle.761e5ca4dcdc29437925.png",
+    "static/media/appreciation.png": "/Go-Drive.com/static/media/appreciation.74d08f4aae1e13b64fc2.png",
+    "static/media/gold-key.png": "/Go-Drive.com/static/media/gold-key.598f4b2473a7a7240b09.png",
+    "static/media/assis.png": "/Go-Drive.com/static/media/assis.79847ab1d5a70cd43f85.png",
+    "static/media/car-wash.png": "/Go-Drive.com/static/media/car-wash.d4191d9bad0b6452b97c.png",
+    "static/media/google.png": "/Go-Drive.com/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/maps.png": "/Go-Drive.com/static/media/maps.d29cc6ba8ea3798d3d82.png",
+    "static/media/check.png": "/Go-Drive.com/static/media/check.546e4e84e5d555b4ca1e.png",
+    "static/media/placeholder.png": "/Go-Drive.com/static/media/placeholder.3d53d63c3bcd858267d0.png",
+    "static/media/car.png": "/Go-Drive.com/static/media/car.c90b9ef00d277e004629.png",
+    "index.html": "/Go-Drive.com/index.html",
+    "main.07c9661c.css.map": "/Go-Drive.com/static/css/main.07c9661c.css.map",
+    "main.d5aeb78e.js.map": "/Go-Drive.com/static/js/main.d5aeb78e.js.map",
+    "787.0cac1765.chunk.js.map": "/Go-Drive.com/static/js/787.0cac1765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c9661c.css",
+    "static/js/main.d5aeb78e.js"
+  ]
+}
