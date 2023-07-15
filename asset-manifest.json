@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Go-Drive/static/css/main.07c9661c.css",
-    "main.js": "/Go-Drive/static/js/main.44f8376f.js",
+    "main.css": "/Go-Drive/static/css/main.9c7ec23c.css",
+    "main.js": "/Go-Drive/static/js/main.1597f900.js",
     "static/js/787.0cac1765.chunk.js": "/Go-Drive/static/js/787.0cac1765.chunk.js",
     "static/media/man.png": "/Go-Drive/static/media/man.adb51b7545769e0ba82b.png",
     "static/media/security.png": "/Go-Drive/static/media/security.d8bd479463ff1560003d.png",
@@ -19,12 +19,12 @@
     "static/media/placeholder.png": "/Go-Drive/static/media/placeholder.3d53d63c3bcd858267d0.png",
     "static/media/car.png": "/Go-Drive/static/media/car.c90b9ef00d277e004629.png",
     "index.html": "/Go-Drive/index.html",
-    "main.07c9661c.css.map": "/Go-Drive/static/css/main.07c9661c.css.map",
-    "main.44f8376f.js.map": "/Go-Drive/static/js/main.44f8376f.js.map",
+    "main.9c7ec23c.css.map": "/Go-Drive/static/css/main.9c7ec23c.css.map",
+    "main.1597f900.js.map": "/Go-Drive/static/js/main.1597f900.js.map",
     "787.0cac1765.chunk.js.map": "/Go-Drive/static/js/787.0cac1765.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07c9661c.css",
-    "static/js/main.44f8376f.js"
+    "static/css/main.9c7ec23c.css",
+    "static/js/main.1597f900.js"
   ]
 }
