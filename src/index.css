@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,700&family=Outfit&display=swap');
+
+
+#root{
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Outfit', sans-serif;
+    
+}
+
+::-webkit-scrollbar {
+    width: 11px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(60, 191, 13); 
+    border-radius: 10px;
+  }
+  
+
+
+.App{
+    width:100%;
+    height: min-content;
+
+}
+
+/* 
+ul > child:hover {
+    cursor: pointer;
+} */
+
+.BG::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: blueviolet;
+    /* background-image: url('https://img.freepik.com/free-photo/white-sport-car-with-autotuning-stripes-road_114579-5052.jpg?w=1060&t=st=1689053547~exp=1689054147~hmac=d7116a3ce28acbc2e33abe5dd8bdf2a6db80a2a178a0932c382e4bdc7a31e194'); */
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px);
+    z-index: -1;
+  }
+.content{
+    position: relative;
+    z-index: 1;
+}
+
+.info{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.selectbtn:hover {
+  background-color: rgb(43, 195, 99);
+}
+.selectedbtn{
+  background-color:rgb(43, 195, 99);
+  color: whitesmoke;
+}
+
+.last:focus{
+  background-color: rgb(43, 195, 99);color: whitesmoke;
+}
+
+.mainas{
+    top:85vh
+}
+.assistant {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .action {
+    position: absolute;
+    top:-61vh;
+    left: 10px;
+    height:60vh;
+    width: 18vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .Loginmain{
+    background-color: rgb(255, 255, 255);
+  }
+  .OrderUp{
+    background-color:  rgba(0, 0, 0, 0.3);
+    min-height: 90vh;
+  }
+
+  .FormUp{
+   background-color:  rgba(0, 0, 0, 0.3);
+    max-height: 100vh;
+    overflow-y: scroll;
+
+  }
+  .FormPop{
+    width: 60vw;
+    height: 100vh;
+
+    @media screen and (max-width : 1524px) {
+      height: 250vh;
+    }
+    @media screen and (max-width : 1600px) {
+      height: 100vh;
+    }
+    @media screen and (max-width : 1024px) {
+      height: 130vh;
+    }
+  }
